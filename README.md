@@ -12,9 +12,7 @@ So you can see all the dynamic data on the web.
 
 To access the administrator panel you can use:
 
-User: admin 
+User: admin <br>
 Password: 123456
 
-From there you can make any changes to the data shown on the web.
-
-I appreciate any suggestion or improvement in the code, thanks for your time :D
+From there you can make any changes to the data shown on the web. I aprreciate any suggestion or improvement in the code, thanks for your time ^-^/
